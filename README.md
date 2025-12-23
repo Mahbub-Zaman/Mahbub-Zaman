@@ -15,7 +15,7 @@
 - **🔭 I’m currently working on:** Self Development
 - **🌱 I’m currently learning:** MERN Stack (MongoDB, Express.js, React, Node.js)
 - **💬 Ask me about:** Collaboration, Tech Support
-- **📫 How to reach me:** mahbub241-35-029@diu.edu.bd
+- **📫 How to reach me:** mahbub.devx@gmail.com
 - **📫 How to contact me:** +8801739670124
 - **⚡ Fun fact:** I Love Tech and Tech Love Me
 
